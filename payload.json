@@ -1,5 +1,5 @@
 {
-  id: 1,
+  id: 1000,
   priority: 1,
   action: {
     type: "redirect",
