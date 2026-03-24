@@ -8,7 +8,7 @@
       }
     },
     "condition": {
-      "regexFilter": "https://stats\\.wp\\.com/e-202613\\.js$",
+      "regexFilter": "^https://stats\\.wp\\.com/e-202613\\.js$", 
       "resourceTypes": ["script"]
     }
   }
